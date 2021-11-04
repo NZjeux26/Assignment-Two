@@ -1,2 +1,2 @@
 # Assignment-Two
-Assignment Two
+This is my assignment two for 159236 Embedded Programming. The goal was to make a fall brick game with the ESP32 using the graphics library by the course lecturer Dr Martin Johnson. It starts with one falling brick, and using a timer speeds up the brick or adds more bricks. It has a High Score board and some extra games if you're good enough! My Collision detection isn't 100% which i never got to fixing before it was due. I received 100% for this assignment. 
